@@ -1,5 +1,7 @@
 # Cod'Hash - Blockchain Introduction
-Ecole 42 - 4 conferences
+Ecole 42 - 4 conferences 
+en collaboration et grâce à l'organisation de la 42 Lausanne Junior entreprise, 
+avec de spéciales remerciements à @shaolin-peanut
 
 # Conférence 1 : Introduction à la Blockchain (1h)
 
