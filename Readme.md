@@ -3,6 +3,11 @@ Ecole 42 - 4 conferences
 en collaboration et grâce à l'organisation de la 42 Lausanne Junior entreprise, 
 avec de spéciales remerciements à @shaolin-peanut
 
+## Vous cherchez les slides? Les voici, en format article:
+- [Introduction a la Blockchain](https://github.com/Cod-Hash-Studios/EVM-Introduction/blob/main/conf_1/Introduction.md)
+- TBD pour les suivants
+-----
+## Et ci-desssous, outline de toutes les presentations pour avoir une idee du contenu en avance
 # Conférence 1 : Introduction à la Blockchain (1h)
 
 ## 1. Origines et Idéologie (20 min)
