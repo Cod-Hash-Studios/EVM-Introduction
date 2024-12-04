@@ -5,7 +5,7 @@ avec de spéciales remerciements à @shaolin-peanut
 
 ## Vous cherchez les slides? Les voici, en format article:
 - [Introduction a la Blockchain](https://github.com/Cod-Hash-Studios/EVM-Introduction/blob/main/conf_1/Introduction.md)
-- TBD pour les suivants
+- [Comprendre l'EVM et les dApps](https://github.com/Cod-Hash-Studios/EVM-Introduction/blob/main/conf_2/Comprendre%20l'EVM%20et%20les%20dApps%20.pdf)
 -----
 ## Et ci-desssous, outline de toutes les presentations pour avoir une idee du contenu en avance
 # Conférence 1 : Introduction à la Blockchain (1h)
