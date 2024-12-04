@@ -1,7 +1,7 @@
 # Cod'Hash - Blockchain Introduction
 Ecole 42 - 4 conferences 
 en collaboration et grâce à l'organisation de la 42 Lausanne Junior entreprise, 
-avec de spéciales remerciements à @shaolin-peanut
+avec de spéciales remerciements à [@shaolin-peanut](https://github.com/shaolin-peanut)
 
 ## Vous cherchez les slides? Les voici, en format article:
 - [Introduction a la Blockchain](https://github.com/Cod-Hash-Studios/EVM-Introduction/blob/main/conf_1/Introduction.md)
