@@ -1,0 +1,1 @@
+Voici le lien du recording sur youtube https://www.youtube.com/watch?v=HDJfZ6khQ_g&ab_channel=President
