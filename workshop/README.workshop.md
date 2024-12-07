@@ -170,6 +170,8 @@ contract GovernanceTokenTest is Test {
 
 script/deployToken.s.sol
 ```solidity
+import {Script, console} from "forge-std/Script.sol";
+import {GovernanceToken} from "../src/Token.sol";
 contract TokenScript is Script {
     GovernanceToken public token;
 
