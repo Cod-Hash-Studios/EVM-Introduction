@@ -241,7 +241,7 @@ forge create src/Token.sol:GovernanceToken --rpc-url https://ethereum-sepolia-rp
 forge script script/deployToken.s.sol --rpc-url https://ethereum-sepolia-rpc.publicnode.com --private-key <PRIVATE_KEY> --broadcast
 
 # Verification du contrat
-forge verify-contract --chain-id 11155111 <ADRESSE_DU_CONTRAT> src/Token.sol:GovernanceToken --etherscan-api-key <ETHERSCAN_API_KEY> --constructor-args $(cast abi-encode "constructor(string,string)" "MyDaoToken" "DAO") --watch
+forge verify-contract --chain-id 11155111 <ADRESSE_DU_CONTRAT> src/Token.sol:GovernanceToken --etherscan-api-key <ETHERSCAN_API_KEY> --constructor-args $(cast abi-encode "constructor(string,string)" "TestToken" "TEST") --watch
 ```
 
 ### 4. Setup DAO
